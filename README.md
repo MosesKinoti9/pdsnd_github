@@ -1,16 +1,16 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
-Include the date you created this project and README file.
+Saturday, 4th December 2021
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Project for Udacity Nanodegree Program ( Programming for Data Science with Python)
 
 ### Description
-Describe what your project is about and what it does
+PyEx is a CLI program that is interactive and personalized to the user allowing them to query data from three cities: chicago, new york and washington and filter according to various criteria: day, month and/or both. It is also personalized to the user and uses the user's name throughpout the program as well as all input data given. 
 
 ### Files used
-Include the files used
+The data files used include: chicago.csv, new_york_city.csv, washington.csv . They are al under the file "data files" in the repository.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
