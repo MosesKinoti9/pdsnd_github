@@ -276,7 +276,7 @@ def main():
         user_stats(df, city)
         raw_data(df, city)
 
-        restart = input('\nWould you like to restart?\n')
+        restart = input('\nWould you like to restart?\n').lower()
         if restart.lower() != 'yes':
             print(f"Thank you for using this program for your data exploration. Hope you had as much fun on this as I did.\n")
             print(f"PyEx signing out...")
