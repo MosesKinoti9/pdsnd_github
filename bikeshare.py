@@ -19,6 +19,7 @@ def get_filters():
     """
     
     #Empty name variable to store name of user to be used throughout the program
+    #User enters their name for PyEx to use in the program
     name = ''
     print("\nHello! My name is PyEx, an exploration job that is going to guide you through the program")
     name = input("\nWhat\'s your name?\n")
@@ -47,7 +48,7 @@ def get_filters():
             break
     
     
-#For the month slecection criteria, I will utilize a dictionary to store all my available month options then reference to the functions containing the list
+#For the month selection criteria, I will utilize a dictionary to store all my available month options then reference to the functions containing the list
 
     month_list = ['january','february','march','april','may','june','all months']
     month = ''
@@ -247,7 +248,7 @@ def user_stats(df, city):
     
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    
+  #Raw data to be displayed to the user  
 def raw_data(df, city):
     """Asking user if they want raw data displayed"""
     x = 0
