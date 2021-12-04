@@ -48,7 +48,10 @@ def get_filters():
             break
     
     
+
 #For the month selcection criteria, I will utilize a dictionary to store all my available month options then reference to the functions containing the list
+#For the month selection criteria, I will utilize a dictionary to store all my available month options then reference to the functions containing the list
+
 
     month_list = ['january','february','march','april','may','june','all months']
     month = ''
