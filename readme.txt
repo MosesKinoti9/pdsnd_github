@@ -1,0 +1,1 @@
+For my reference of how show raw data, the first five lines: I studied the example from https://github.com/YashMotwani/US-Bikeshare-Data-Exploration-Program and modified it according to my needs.
