@@ -8,6 +8,8 @@ US Bikeshare Project (Udacity Nanodegree Programming for Data Science using Pyth
 Description:
 PyEx is a CLI program that takes US bikeshare data and enables analysis of data with ease by the user. The program is personalized to the user and data can be filtered according to certain variables: day, month and/or both.
 
+The program also has a personalized feel as the user's name and other input is used throughout the program to make it as fun and interactive as possible.
+
 Files:
 Data files used include: chicago.csv, new_york_city.csv and washington.csv
 
