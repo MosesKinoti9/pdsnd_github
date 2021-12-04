@@ -19,6 +19,7 @@ def get_filters():
     """
     
     #Empty name variable to store name of user to be used throughout the program
+    #User enters their name for PyEx to use in the program
     name = ''
     print("\nHello! My name is PyEx, an exploration job that is going to guide you through the program")
     name = input("\nWhat\'s your name?\n")
