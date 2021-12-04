@@ -255,7 +255,7 @@ def raw_data(df, city):
         inp = input(f"Do you wish to view raw data from " + str(city) + "?\n").lower()
         if inp == 'yes':
             print(df[x:x+5])
-            x = x + 5 #similar to x += 5
+            x += 5 #similar to previous x = x + 5
         else:
             break
         
