@@ -12,6 +12,8 @@ The program also has a personalized feel as the user's string name and other inp
 
 The user can also query for raw data that is displayed from the select dataset for further analysis.
 
+The star feature implement is the exemption handling technique of a try..catch/exempt method that looks out for any wrong user input and sends a prompt to retry their entry without crashing the entire program.
+
 Files:
 Data files used include: chicago.csv, new_york_city.csv and washington.csv
 
