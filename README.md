@@ -15,8 +15,5 @@ The user can also query for raw data that is displayed from the select dataset f
 The star feature implement is the exemption handling technique of a try..catch/except method that looks out for any wrong user input and sends a prompt to retry their entry without crashing the entire program. This eliminates the need for the user to begin the program afresh which can be frustrating and lead to a bad user experience.
 
 ### Files
-The data files used include: chicago.csv, new_york_city.csv, washington.csv . They are al under the file "data files" in the repository.
-eed for the user to begin the program afresh which can be frustrating and lead to a bad user experience.
-
-
+The data files used include: chicago.csv, new_york_city.csv, washington.csv . 
 
